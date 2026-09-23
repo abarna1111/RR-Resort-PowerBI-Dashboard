@@ -81,6 +81,12 @@ The Staff Performance Dashboard focuses on staff-related information and perform
 
 The Finance & Revenue Dashboard focuses on financial and revenue-related information.
 
+## 📥 Power BI Dashboard
+
+The complete Power BI dashboard file can be downloaded from the link below:
+
+[Download RR Resort Power BI Dashboard](https://1drv.ms/u/c/a4af5d16911d44d7/IQDAX3uT5rKkQZfbrGHX_cuyAQBPAXJm5fYDZNViDrkvbw4?e=mifd0h)
+
 📄 License
 
 This project is intended for educational and portfolio purposes.
