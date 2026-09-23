@@ -85,6 +85,6 @@ The Finance & Revenue Dashboard focuses on financial and revenue-related informa
 
 This project is intended for educational and portfolio purposes.
 
-##👩‍💻 Author
+👩‍💻 Author
 
 Abarna
