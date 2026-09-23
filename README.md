@@ -81,10 +81,10 @@ The Staff Performance Dashboard focuses on staff-related information and perform
 
 The Finance & Revenue Dashboard focuses on financial and revenue-related information.
 
-###📄 License
+📄 License
 
 This project is intended for educational and portfolio purposes.
 
-###👩‍💻 Author
+##👩‍💻 Author
 
 Abarna
